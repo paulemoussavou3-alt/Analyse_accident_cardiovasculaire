@@ -13,7 +13,7 @@ Ce projet vise à aider les professionels de santé à identifier chez un patien
 
 -Taille : 5110 patients.
 
--Variable : id , gender , age , hypertension , heart_disease , ever_married , work_type , residence_type , avg_glucose_level , bmi , smoking_status
+-Variable : id , gender , age , hypertension , heart_disease , ever_married , work_type , residence_type , avg_glucose_level , bmi , smoking_status.
 
 -Variable cible : stroke.
 
@@ -21,7 +21,7 @@ Ce projet vise à aider les professionels de santé à identifier chez un patien
 
 -Nettoyage des données.
 
--Analyse Exploratoire des Données ( Analyse des corrélations , des statistiques descriptives et des visualisations )/
+-Analyse Exploratoire des Données ( Analyse des corrélations , des statistiques descriptives et des visualisations ).
 
 5)Résultats
 
