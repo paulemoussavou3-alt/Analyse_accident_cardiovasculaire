@@ -25,12 +25,12 @@ Ce projet vise à aider les professionels de santé à identifier chez un patien
 
 5)Résultats
 
-A travers nos analyses , nous avons pu découvrir des élements susceptibles d'impacter , l'apparition d'un accident vasculaire cérébral , l'élément principale est : l'âge. Nous avons pu voir par la suite que l'âge d'une personne a un lien significatif avec son hypertension , une possible maladie du coeur et son indice de masse corporel qui augmente les 60 premières années de sa vie et qui peut légèrement diminuer après cela. Nous avons également observer , l'IMC qui a un possible lien avec l'hypertension et la maladie du coeur d'une personne.
+A travers nos analyses , nous avons pu découvrir des élements susceptibles d'impacter , l'apparition d'un accident vasculaire cérébral , l'élément principale est : l'âge. Nous avons pu voir par la suite que l'âge d'une personne a un lien significatif avec son hypertension , une possible maladie du coeur et son indice de masse corporel qui augmente les 60 premières années de sa vie et qui peut légèrement diminuer après cela. Nous avons également observer , l'IMC qui a un possible lien avec l'hypertension et la maladie du coeur d'une personne. Parmi les personnes à risque , on peut retrouver celles avec un cholestérol anormalement élevé , un poid avancé et une non pratique d'activité sportive.
 
 
 6) Bussiness Recommandation.
 
-Au fur et à mesure qu'une personne prend de l'âge , elle doit faire attention aux différents facteurs qui causent de l'hypertension et des maladies du coeur car ces derniers peuvent l'emmener indirectement à avoir un accident vasculaire cérébrale .
-Pour prévenir les risques d'AVC , votre clinique doit plus se pencher sur les personnes qui ont atteint ou dépassé 41ans et surveiller leur indice de masse corporel et ne pas la dépasser.
+Au fur et à mesure qu'une personne prend de l'âge , elle doit faire attention aux différents facteurs qui causent de l'hypertension et des maladies du coeur car ces derniers peuvent l'emmener indirectement à avoir un AVC .
+Pour prévenir les risques d'AVC , votre clinique doit plus se pencher sur les personnes qui ont atteint ou dépassé 41ans et surveiller leur indice de masse corporel qui ne doit pas être dépassé ainsi que le taux de cholesterol . Des activités sportives pratiquées de manière plus récurrentes pourraient également être un excellent moyen de prévenir un AVC dans le cas d'un patient à risque .
 
 
