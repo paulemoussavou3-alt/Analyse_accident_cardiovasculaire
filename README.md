@@ -25,6 +25,10 @@ Ce projet vise à aider les professionels de santé à identifier chez un patien
 
 5)Résultats
 
-A travers nos analyses , nous avons pu découvrir des élements susceptibles d'impacter , l'apparition d'un accident vasculaire cérébral , l'élément principale est : l'âge. Nous avons pu voir par la suite que l'âge d'une personne a un lien significatif avec son hypertension , une possible maladie du coeur et son indice de masse corporel qui augmente les 60 premières années de sa vie et qui peut légèrement diminuer après cela. Nous avons également observer , l'IMC qui a un possibl lien avec l'hypertension et la maladie du coeur d'une personne.
-A travers nos analyses , nous avons pu découvrir des élements susceptibles d'impacter , l'apparition d'un accident vasculaire cérébral , l'élément principale est : l'âge. Nous avons pu voir par la suite que l'âge d'une personne a un lien significatif avec son hypertension , une possible maladie du coeur et son indice de masse corporel qui augmente les 60 premières années de sa vie et qui peut légèrement diminuer après cela. Nous avons également observer , l'IMC qui a un possibl lien avec l'hypertension et la maladie du coeur d'une personne.
+A travers nos analyses , nous avons pu découvrir des élements susceptibles d'impacter , l'apparition d'un accident vasculaire cérébral , l'élément principale est : l'âge. Nous avons pu voir par la suite que l'âge d'une personne a un lien significatif avec son hypertension , une possible maladie du coeur et son indice de masse corporel qui augmente les 60 premières années de sa vie et qui peut légèrement diminuer après cela. Nous avons également observer , l'IMC qui a un possible lien avec l'hypertension et la maladie du coeur d'une personne.
+
+
+6) Bussiness Recommandation.
+
+Pour prévenir les risques d'AVC , votre clinique doit plus se pencher sur les personnes d'un âge avancé. Elles doivent éviter une alimentation riche en sel et surveiller leur indice de masse corporel et ne pas la dépasser.
 
