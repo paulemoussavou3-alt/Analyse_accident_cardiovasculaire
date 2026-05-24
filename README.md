@@ -30,5 +30,7 @@ A travers nos analyses , nous avons pu découvrir des élements susceptibles d'i
 
 6) Bussiness Recommandation.
 
-Pour prévenir les risques d'AVC , votre clinique doit plus se pencher sur les personnes d'un âge avancé. Elles doivent éviter une alimentation riche en sel et surveiller leur indice de masse corporel et ne pas la dépasser.
+Au fur et à mesure qu'une personne prend de l'âge , elle doit faire attention aux différents facteurs qui causent de l'hypertension et des maladies du coeur car ces derniers peuvent l'emmener indirectement à avoir un accident vasculaire cérébrale .
+Pour prévenir les risques d'AVC , votre clinique doit plus se pencher sur les personnes qui ont atteint ou dépassé 41ans et surveiller leur indice de masse corporel et ne pas la dépasser.
+
 
